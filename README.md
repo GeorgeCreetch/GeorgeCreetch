@@ -1,11 +1,25 @@
 <h1 align="center">Hello Мир 👋</h1>
-- 👋 Hi, I’m @GeorgeCreetch
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-GeorgeCreetch/GeorgeCreetch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>Contact me</h2>
+<a href="https://vk.com/id673347518">
+  <img src="sing/discord.png" width="32px" height="32px"></img>
+</a>
+
+<h2>Answers to FAQ</h2>
+<p>1. Can I change and use the repository?</p>
+<p>2. Where were the icons for the site taken from?</p>
+<p>3. What country are you from?</p>
+<p>4. What is your favorite quote?</p>
+<ol>
+  <li>Yes, provided that you specify the author of this repository.</li>
+  <li>They were taken from the <a href="https://www.flaticon.com/" target="_blank">Flaticon</a> website.</li>
+  <li>I'm from Russia.</li>
+  <li>«Time is all we have».</li>
+</ol>
+
+<h2>Public repositories</h2>
+<ul>
+  <li>
+    <p>Coming soon</p>
+  </li>
+</ul>
