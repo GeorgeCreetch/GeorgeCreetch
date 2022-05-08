@@ -2,7 +2,7 @@
 
 <h2>Contact me</h2>
 <a href="https://vk.com/id673347518">
-  <img src="sing/discord.png" width="32px" height="32px"></img>
+  <img src="sign/discord.png" width="32px" height="32px"></img>
 </a>
 
 <h2>Answers to FAQ</h2>
