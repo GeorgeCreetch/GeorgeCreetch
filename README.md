@@ -1,7 +1,7 @@
 <h1 align="center">Hello Мир 👋</h1>
 
 <h2>Contact me</h2>
-<a href="https://vk.com/id673347518">
+<a href="https://discord.gg/DKTrzy4MXC">
   <img src="sign/discord.png" width="32px" height="32px"></img>
 </a>
 
